@@ -1,0 +1,6 @@
+hash: 70c2df8b5f552fc269a562ead4af1c38bfe38832785283d017258c4d98528fe0
+updated: 2016-08-19T08:25:53.888985612+02:00
+imports:
+- name: github.com/godbus/dbus
+  version: 7a8c533d28e8162671a81090af5b9f78b74e2d26
+devImports: []
