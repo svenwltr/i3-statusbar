@@ -1,0 +1,3 @@
+package: github.com/svenwltr/i3-statusbar
+import:
+- package: github.com/godbus/dbus
